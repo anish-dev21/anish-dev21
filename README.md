@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anish-dev21
+- 👋 Hi, I’m Anish Biswas
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning React and working on time series data implementation
 - 💞️ I’m looking to collaborate on development.
