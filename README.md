@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anish-dev21
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning how to develop a chatbot
+- 🌱 I’m currently learning React and working on time series data implementation
 - 💞️ I’m looking to collaborate on development.
 - 📫 How to reach me ...
 https://www.linkedin.com/in/anish-biswas-b08077200/
