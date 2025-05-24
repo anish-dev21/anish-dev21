@@ -78,8 +78,7 @@
 </p>
 <p>Built a conversational agent recommending electric vehicles designed to user preferences and criteria.</p>
 
-
-<blockquote style="font-family: 'Fira Code', monospace; text-align: center; font-size: 16px; color: #3F8CFF; margin-top: 20px;">
+<p style="font-family: 'JetBrains Mono', monospace; text-align: center; font-size: 16px; color: #3F8CFF; margin-top: 20px;">
   🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
-</blockquote>
+</p>
 
