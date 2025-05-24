@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> 
   <span style="font-family: 'JetBrains Mono', monospace; font-size: 28px; color: white;">Hi, I'm Anish </span>
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=420&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
