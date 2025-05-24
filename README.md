@@ -13,32 +13,75 @@
 
 <h3>Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" /> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" /> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" /> 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" /> 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" /> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> 
-  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP ABAP" /> 
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  </a> 
+  <a href="https://www.r-project.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  </a> 
+  <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  </a> 
+  <a href="https://www.sap.com/products/abap.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP ABAP" />
+  </a> 
+  <a href="https://www.latex-project.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
+  </a>
 </p>
 
 <h3>Frameworks & Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" /> 
-  <img src="https://img.shields.io/badge/Dash-0175C2?style=flat&logo=plotly&logoColor=white" alt="Dash" /> 
-  <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" /> 
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" /> 
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" /> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /> 
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" /> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  </a> 
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  </a> 
+  <a href="https://plotly.com/dash" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Dash-0175C2?style=flat&logo=plotly&logoColor=white" alt="Dash" />
+  </a> 
+  <a href="https://rasa.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" />
+  </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a> 
+  <a href="https://keras.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" />
+  </a> 
+  <a href="https://pandas.pydata.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  </a> 
+  <a href="https://numpy.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  </a> 
+  <a href="https://axios-http.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios" />
+  </a> 
+  <a href="https://www.postman.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="47%" />
