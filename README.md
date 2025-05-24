@@ -80,7 +80,7 @@
 
 ```html
 
-                                                        🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
+                             🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
  
 ```
 
