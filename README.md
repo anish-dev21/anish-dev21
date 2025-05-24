@@ -1,12 +1,34 @@
-<p align="center" style="font-family: 'JetBrains Mono', monospace; color: white; font-weight: normal; margin: 0;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align: middle;" />
-  <span style="font-size: 48px;">Hi, I'm Anish</span><br>
-  <span style="font-size: 18px; color: #3F8CFF;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing SVG" />
-  </span>
+<style>
+.typing {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 36px;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 2px solid #3F8CFF;
+  width: 12ch;
+  animation: typing 2.5s steps(12) forwards, blink 0.75s step-end infinite;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 12ch }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
+
+<div class="typing">Hi, I'm Anish</div>
+
+<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 16px; color: #3F8CFF; margin-top: 8px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white; margin-top: 8px;">
+<p style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white; text-align: center; margin-top: 8px;">
   🌱 Currently exploring React.js & Time Series Analytics<br>
   🤝 Open to collaborations in applied research and development<br>
   📫 <a href="https://www.linkedin.com/in/anish-biswas-b08077200/" style="color: #3F8CFF;">Connect on LinkedIn</a>
