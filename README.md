@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/👋-Hi_There!_I'm_Anish_Biswas-blue?style=for-the-badge&logo=github" alt="Hi there! I'm Anish Biswas" />
+  <img src="https://camo.githubusercontent.com/f35036f3f9a53b6d3f580f56e51f37c1d2ae9b7a48b82c4f9e03e5ea7998f145/68747470733a2f2f6261646765732e6769746875622e696f2f62616467652f48692d5468657265212d46336772616469656e742e737667" alt="Hi there! I'm Anish Biswas" />
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=380&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developement" alt="Typing SVG" />
 </p>
+
 
 - 🌱 Learning React.js & Time Series Analytics  
 - 🤝 Open for collaboration in development & research  
