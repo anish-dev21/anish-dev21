@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span>👋</span> <span style="color:white;">Hi, I'm Anish Biswas</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align: middle;"> Hi, I'm Anish Biswas
 </h1>
 
 <p align="center">
