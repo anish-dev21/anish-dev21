@@ -1,4 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Anish Biswas</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Anish+Biswas" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=380&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developement" alt="Typing SVG" />
 
@@ -34,5 +37,3 @@ Applied interpretable ML algorithms to predict FIFA player ratings from performa
 ### 🔋 Electric Vehicle Recommendation Bot  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat)  
 Built a conversational agent recommending electric vehicles tailored to user preferences and criteria.
-
----
