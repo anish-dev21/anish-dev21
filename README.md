@@ -91,39 +91,69 @@
 <h3>Projects I worked on</h3>
 
 <p><strong>🤖 Bilingual Student Chatbot</strong> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Ollama-2D9CDB?style=flat" alt="Ollama" />
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://rasa.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" />
+  </a>
+  <a href="https://python.langchain.com/en/latest/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  </a>
+  <a href="https://streamlit.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </a>
+  <a href="https://ollama.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ollama-2D9CDB?style=flat" alt="Ollama" />
+  </a>
 </p>
 <p>Created a bilingual NLP chatbot to facilitate seamless student information retrieval with advanced query understanding.</p>
 
 <p><strong>🧠 AI Code Optimization Plugin</strong> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/SWARM-FF6F00?style=flat" alt="SWARM" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://flask.palletsprojects.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  </a>
+  <a href="https://swarm.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SWARM-FF6F00?style=flat" alt="SWARM" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  </a>
 </p>
 <p>Developed a JetBrains IDE plugin enabling AI-based code refactoring, error detection, and real-time performance tuning.</p>
 
 <p><strong>⚽ FIFA Player Rating Model</strong> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Decision_Trees-4CAF50?style=flat" alt="Decision Trees" />
-  <img src="https://img.shields.io/badge/Random_Forests-388E3C?style=flat" alt="Random Forests" />
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Decision_tree_learning" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Decision_Trees-4CAF50?style=flat" alt="Decision Trees" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Random_forest" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Random_Forests-388E3C?style=flat" alt="Random Forests" />
+  </a>
 </p>
 <p>Applied interpretable ML algorithms to predict FIFA player ratings from performance data.</p>
 
 <p><strong>🔋 Electric Vehicle Recommendation Bot</strong>  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" />
-  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat" alt="Tkinter" />
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://rasa.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white" alt="Rasa" />
+  </a>
+  <a href="https://wiki.python.org/moin/TkInter" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat" alt="Tkinter" />
+  </a>
 </p>
 <p>Built a conversational agent recommending electric vehicles designed to user preferences and criteria.</p>
 
-```html
 
-                                      🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
+```html
+🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
 ```
 
 
