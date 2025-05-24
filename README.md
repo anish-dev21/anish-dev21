@@ -78,3 +78,8 @@
 </p>
 <p>Built a conversational agent recommending electric vehicles designed to user preferences and criteria.</p>
 
+<p align="center" style="margin: 0; padding: 0; line-height: 1; font-family: 'JetBrains Mono', monospace;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=%F0%9F%9B%80%EF%B8%8F+Build();+%F0%9F%93%88+Analyze();+%F0%9F%91%A8%EF%B8%8F%E2%80%8D%F0%9F%92%BB+Persist();+%E2%99%BE%EF%B8%8F+Repeat();" alt="Typing animation" />
+</p>
+
+
