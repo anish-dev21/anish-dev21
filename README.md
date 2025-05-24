@@ -7,8 +7,8 @@
 
 ## 🎓 About Me
 
-- 🎓 **Computer Science Student**  
-- 🤖 **Interests**: Artificial Intelligence, Machine Learning, Data Science  
+- 🎓 **International Inforamtion Systems Student @THA Augsburg **  
+- 🤖 **Interests**: AI, ML, Data Science  
 - 🌱 **Currently Learning**: React.js, Time Series Data Analysis  
 - 🤝 **Open to Collaborate** on development and research projects  
 - 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/anish-biswas-b08077200/)
@@ -42,16 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🛠 Developer Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
@@ -62,13 +52,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anish-dev21&theme=matrix&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
----
-
-<p align="center"><i>"Code is a way of thinking clearly. Research is a way of asking better questions."</i></p>
