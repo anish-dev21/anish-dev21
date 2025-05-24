@@ -88,7 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
 </p>
 
-<h3>Projects I worked on</h3>
+<h3 style="font-weight: bold;">Projects I worked on</h3>
 
 <p><strong>🤖 Bilingual Student Chatbot</strong> 
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
