@@ -80,10 +80,8 @@
 
 Sure! Here's the plain text centered and bold:
 
-```html
 <p style="font-family: 'JetBrains Mono', monospace; text-align: center; font-size: 16px; color: #3F8CFF; font-weight: bold; margin-top: 20px;">
   🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
 </p>
-```
 
 
