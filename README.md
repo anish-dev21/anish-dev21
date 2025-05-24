@@ -41,3 +41,14 @@ Applied interpretable ML algorithms to predict FIFA player ratings from performa
 ### 🔋 Electric Vehicle Recommendation Bot  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat)  
 Built a conversational agent recommending electric vehicles tailored to user preferences and criteria.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-dev21&theme=tokyonight" width="45%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=anish-dev21&theme=react-dark" width="45%" />
+</p>
+
