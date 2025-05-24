@@ -24,22 +24,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
 </p>
 
-
-
 ###🛠️ Projects
 
-🤖 Bilingual Student Chatbot ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-2D9CDB?style=flat)
+🤖 Bilingual Student Chatbot:  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-2D9CDB?style=flat)
 
 Created a bilingual NLP chatbot to facilitate seamless student information retrieval with advanced query understanding.
 
-🧠 AI Code Optimization Plugin ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SWARM](https://img.shields.io/badge/SWARM-FF6F00?style=flat) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+🧠 AI Code Optimization Plugin:  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![SWARM](https://img.shields.io/badge/SWARM-FF6F00?style=flat) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 Developed a JetBrains IDE plugin enabling AI-based code refactoring, error detection, and real-time performance tuning.
 
-⚽ FIFA Player Rating Model ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Decision Trees](https://img.shields.io/badge/Decision_Trees-4CAF50?style=flat) ![Random Forests](https://img.shields.io/badge/Random_Forests-388E3C?style=flat)
+⚽ FIFA Player Rating Model:  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Decision Trees](https://img.shields.io/badge/Decision_Trees-4CAF50?style=flat) ![Random Forests](https://img.shields.io/badge/Random_Forests-388E3C?style=flat)
 
 Applied interpretable ML algorithms to predict FIFA player ratings from performance data.
 
-🔋 Electric Vehicle Recommendation Bot ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat)
+🔋 Electric Vehicle Recommendation Bot:  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat)
 
 Built a conversational agent recommending electric vehicles designed to user preferences and criteria.
