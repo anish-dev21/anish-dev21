@@ -1,17 +1,18 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"> 
-  <span style="font-family: 'JetBrains Mono', monospace; font-size: 28px; color: white;">Hi, I'm Anish </span>
-<h1>
+<h1 align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 26px; color: white;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" style="vertical-align: middle;" />
+  Hi, I'm Anish
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=420&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white;">
+  🌱 Currently exploring React.js & Time Series Analytics<br>
+  🤝 Open to collaborations in applied research and development<br>
+  📫 <a href="https://www.linkedin.com/in/anish-biswas-b08077200/" style="color: #3F8CFF;">Connect on LinkedIn</a>
 </p>
 
-- 🌱 Learning React.js & Time Series Analytics  
-- 🤝 Open for collaboration in development & research  
-- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/anish-biswas-b08077200/)
-  
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
