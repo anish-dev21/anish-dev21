@@ -1,25 +1,11 @@
-<h1 align="center" style="background: linear-gradient(270deg, #ff0080, #7928ca, #2a74f4, #00dbde, #ff0080);
-  background-size: 1000% 1000%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: rainbow 10s ease infinite;">
-  Hi there 👋, I'm Anish Biswas
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FF4500,FF6347,FF8C00,FFD700,ADFF2F,32CD32,00CED1,1E90FF,6A5ACD,9932CC&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Anish+Biswas" alt="Hi there, I'm Anish Biswas" />
 </h1>
-
-<style>
-@keyframes rainbow {
-  0%,100% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-}
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=380&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developement" alt="Typing SVG" />
 </p>
+
 
 - 🌱 Learning React.js & Time Series Analytics  
 - 🤝 Open for collaboration in development & research  
