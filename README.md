@@ -79,7 +79,20 @@
 <p>Built a conversational agent recommending electric vehicles designed to user preferences and criteria.</p>
 
 
-
-<blockquote style="font-family: 'JetBrains Mono', monospace; text-align: center; font-size: 16px; color: #3F8CFF; margin-top: 20px;">
+<blockquote style="
+  font-family: 'JetBrains Mono', monospace;
+  text-align: center;
+  font-size: 16px;
+  color: #3F8CFF;
+  margin: 20px auto;
+  max-width: 480px;
+  padding: 15px 25px;
+  border-left: 4px solid #3F8CFF;
+  background: rgba(63, 140, 255, 0.1);
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(63, 140, 255, 0.15);
+  user-select: none;
+">
   🛠️ Build(); 📈 Analyze(); 👨‍💻 Persist(); ♾️ Repeat();
 </blockquote>
+
