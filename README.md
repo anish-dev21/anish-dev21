@@ -26,34 +26,32 @@
 
 ## 🛠️ Projects I Worked On
 
-<details>
-  <summary>🤖 Bilingual Student Chatbot 🚀</summary>
+### 🤖 Bilingual Student Chatbot  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/anish-dev21/bilingual-chatbot)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FE4E30?style=flat&logo=streamlit)
 
-[![GitHub Repo](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/anish-dev21/bilingual-chatbot)  
-[![Demo](https://img.shields.io/badge/-Live%20Demo-blue?style=flat&logo=web)](https://bilingual-chatbot.demo)
+Built a bilingual NLP chatbot to facilitate seamless student information retrieval with advanced query understanding.
 
-<br>
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white)
-
-<br>
-
-Created a bilingual NLP chatbot to facilitate seamless student information retrieval with advanced query understanding.
-
-</details>
-
-<details>
-  <summary>🧠 AI Code Optimization Plugin 🔧</summary>
-
-[![GitHub Repo](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/anish-dev21/ai-code-plugin)  
-
-<br>
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java)
-
-<br>
+### 🧠 AI Code Optimization Plugin  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/anish-dev21/ai-code-plugin)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
 
 Developed a JetBrains IDE plugin enabling AI-based code refactoring, error detection, and real-time performance tuning.
 
-</details>
+---
+
+### ⚽ FIFA Player Rating Model  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-4CAF50?style=flat) ![Random Forests](https://img.shields.io/badge/Random%20Forests-388E3C?style=flat)
+
+Applied interpretable ML algorithms to predict FIFA player ratings from performance data.
+
+---
+
+### 🔋 Electric Vehicle Recommendation Bot  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=flat)
+
+Built a conversational agent recommending electric vehicles tailored to user preferences and criteria.
+
 
