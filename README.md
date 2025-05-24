@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
   <span style="vertical-align: middle; font-size: 42px; color: white;">Hi, I'm Anish</span>
   <p align="center" style="margin: 0; padding: 0; line-height: 1;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Development" alt="Typing animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=AI/ML+%7C+Data+Science+%7C+Full-Stack+Development;🛠️ Build();📈+Analyze()+👨‍💻 Persist()+♾️ Repeat();" alt="Typing animation" />
   </p>
 </h1>
 
