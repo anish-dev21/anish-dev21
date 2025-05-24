@@ -1,11 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FF4500,FF6347,FF8C00,FFD700,ADFF2F,32CD32,00CED1,1E90FF,6A5ACD,9932CC&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Anish+Biswas" alt="Hi there, I'm Anish Biswas" />
+  <span>👋</span> <span style="color:white;">Hi, I'm Anish Biswas</span>
 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=380&lines=Information+Systems+@+THA+Augsburg;AI/ML+,+Data+Science+Enthusiast;Full-Stack+Developement" alt="Typing SVG" />
 </p>
-
 
 - 🌱 Learning React.js & Time Series Analytics  
 - 🤝 Open for collaboration in development & research  
