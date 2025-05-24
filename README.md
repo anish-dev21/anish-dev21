@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </h2>
 
-<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white;">
+<p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white;">
   🌱 Currently exploring React.js & Time Series Analytics<br>
   🤝 Open to collaborations in applied research and development<br>
   📫 <a href="https://www.linkedin.com/in/anish-biswas-b08077200/" style="color: #3F8CFF;">Connect on LinkedIn</a>
