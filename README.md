@@ -19,14 +19,11 @@
 ### Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-0175C2?style=flat&logo=plotly&logoColor=white) ![Rasa](https://img.shields.io/badge/Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-
-  <span style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-    <!-- Streaks -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-dev21&theme=tokyonight" width="320" alt="GitHub Streak Stats" />
-    <!-- Contribution Graph -->
-    <img src="https://github.com/users/anish-dev21/contributions" width="320" alt="GitHub Contribution Graph" />
-  </span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=anish-dev21&theme=react-dark" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
+</p>
 
 ## 🛠️ Projects I Worked On
 
