@@ -28,11 +28,6 @@
     <img src="https://github.com/users/anish-dev21/contributions" width="320" alt="GitHub Contribution Graph" />
   </span>
 
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="380" alt="Top Languages" />
-
-</p>
-
 ## 🛠️ Projects I Worked On
 
 ### 🤖 Bilingual Student Chatbot  
