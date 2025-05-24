@@ -6,6 +6,12 @@
 - 🤝 Open for collaboration in development & research  
 - 📫 [Connect on LinkedIn](https://www.linkedin.com/in/anish-biswas-b08077200/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
+</p>
+
+
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
@@ -29,10 +35,5 @@ Applied interpretable ML algorithms to predict FIFA player ratings from performa
 ### 🔋 Electric Vehicle Recommendation Bot  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat)  
 Built a conversational agent recommending electric vehicles tailored to user preferences and criteria.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
-</p>
 
 ---
