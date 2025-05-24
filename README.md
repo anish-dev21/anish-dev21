@@ -24,8 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-dev21&layout=compact&theme=tokyonight&langs_count=8" width="47%" />
 </p>
 
-## 🛠️ Projects I Worked On
-
+## 🛠️ Projects
 ### 🤖 Bilingual Student Chatbot  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-2D9CDB?style=flat)  
 Created a bilingual NLP chatbot to facilitate seamless student information retrieval with advanced query understanding.
