@@ -37,8 +37,8 @@
   <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   </a> 
-  <a href="https://www.sap.com/products/abap.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP ABAP" />
+ <a href="https://training.sap.com/content/abap-programming-training" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP ABAP" />
   </a> 
   <a href="https://www.latex-project.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX" />
