@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Anish Biswas</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=AI/ML+Enthusiast;Full-Stack+Developer;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=AI/ML+Enthusiast;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 **International Inforamtion Systems Student @THA Augsburg **  
+- 🎓 **International Inforamtion Systems Student @THA Augsburg**  
 - 🤖 **Interests**: AI, ML, Data Science  
 - 🌱 **Currently Learning**: React.js, Time Series Data Analysis  
 - 🤝 **Open to Collaborate** on development and research projects  
