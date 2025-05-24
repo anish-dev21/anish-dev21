@@ -44,27 +44,30 @@
 
 ---
 
-## 🛠 Projects
+## 🛠️ Projects I Worked On
 
-### 🧠 intelliJent — AI Plugin for Code Optimization  
-🗓️ Nov 2024 • 👨‍💻 Python, Flask, SWARM, Java Swing  
-Developed at **hackaTUM ‘24**: AI-driven plugin for JetBrains that performs code refactoring, bug detection, and real-time performance tuning.
+### 🤖 Student Information Chatbot  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FE4E30?style=flat&logo=streamlit&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-2D9CDB?style=flat)  
 
-### ⚽ FIFA Data Analytics  
-🗓️ May–June 2024 • 📊 Python, Decision Trees, Random Forests  
-Analyzed player stats to predict FIFA ratings using interpretable ML models.
+Developed a bilingual chatbot to support student information retrieval using natural language processing.
 
-### 🚗 E-car Recommendation Chatbot  
-🗓️ May 2024 • 🤖 Python, RASA, Tkinter  
-Built during **Makeathon ‘24** for Mercedes-Benz: An AI chatbot that suggests electric vehicles based on user preferences.
+### 🧠 Code Optimization Plugin  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SWARM](https://img.shields.io/badge/-SWARM-FF6F00?style=flat) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)  
 
-### 🎓 THA Chatbot — AI for Students  
-🗓️ March–July 2024 • 💬 Python, Rasa, LangChain, Streamlit, Ollama  
-Created a **bilingual chatbot** for student info retrieval with smart query processing and intuitive UI/UX.
+Implemented a plugin for JetBrains IDEs facilitating code refactoring, bug detection, and performance improvements.
+
+### ⚽ FIFA Player Rating Prediction  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Decision Trees](https://img.shields.io/badge/-Decision%20Trees-4CAF50?style=flat) ![Random Forests](https://img.shields.io/badge/-Random%20Forests-388E3C?style=flat)  
+
+Applied machine learning models to forecast player ratings based on statistical data.
+
+### 🔋 Electric Vehicle Recommendation Bot  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat)  
+
+Developed a conversational agent recommending electric vehicles according to user inputs.
+
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true" width="47%" />
