@@ -1,5 +1,5 @@
-<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 26px; color: white; font-weight: normal; margin: 0;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" style="vertical-align: middle;" />
+<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 32px; color: white; font-weight: normal; margin: 0;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;" />
   <span>Hi, I'm Anish</span><br>
   <span style="font-size: 16px; color: #3F8CFF;">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing SVG" />
