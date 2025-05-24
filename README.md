@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anish Biswas</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=AI/ML+Enthusiast;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Internation Information Systems Student @THA Augsburg;AI/ML+Enthusiast;Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -72,14 +72,3 @@ Created a **bilingual chatbot** for student info retrieval with smart query proc
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anish-dev21&theme=matrix&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
----
-
-<p align="center"><i>"Code is a way of thinking clearly. Research is a way of asking better questions."</i></p>
-
