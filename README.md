@@ -1,36 +1,44 @@
-# 👋 Hi, I'm Anish Biswas
+<h1 align="center">Hey there, I'm Anish Biswas 👋</h1>
 
-I'm passionate about AI/ML, data-driven development, and full-stack solutions. Currently exploring React and working on time series data projects.
-
----
-
-## 💼 About Me
-
-- 👀 Interested in Artificial Intelligence, Machine Learning, and Data Science  
-- 🌱 Learning React, working on time series data implementation  
-- 🤝 Open to collaboration on development projects  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anish-biswas-b08077200/)
+<p align="center">
+  🤖 AI/ML Enthusiast | 🧠 Lifelong Learner | 💻 Developer
+</p>
 
 ---
 
-## 🧠 Skills
+## 🚀 About Me
 
-**Languages:**  
-Java • Python • JavaScript • HTML • CSS • R • SQL • SAP ABAP • LaTeX
+- 👀 **Interest:** Artificial Intelligence & Machine Learning  
+- 🌱 **Currently Learning:** React.js & Time Series Data  
+- 🤝 **Open To:** Collaborations in development & research  
+- 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/anish-biswas-b08077200/)
 
-**Frameworks & Libraries:**  
-React.js • Flask • Dash • Rasa • TensorFlow • Keras • Pandas • NumPy  
-Axios • Postman • Node.js • MySQL
+---
 
-**Tools:**  
-VS Code • IntelliJ • Eclipse • Anaconda • Jupyter Notebook • RStudio • PostgreSQL • GitHub
+## 🧠 Skills & Tools
+
+### 📝 Languages  
+☕ Java &nbsp;&nbsp;🐍 Python &nbsp;&nbsp;🕸️ HTML/CSS &nbsp;&nbsp;🧪 JavaScript &nbsp;&nbsp;📊 R  
+🗃️ SQL &nbsp;&nbsp;⚙️ SAP ABAP &nbsp;&nbsp;📄 LaTeX
+
+### 🧰 Frameworks & Libraries  
+⚛️ React.js &nbsp;&nbsp;🌶️ Flask &nbsp;&nbsp;📊 Dash &nbsp;&nbsp;🧠 TensorFlow/Keras  
+🤖 Rasa &nbsp;&nbsp;🧮 NumPy/Pandas &nbsp;&nbsp;📬 Axios &nbsp;&nbsp;🧪 Postman  
+🌐 Node.js &nbsp;&nbsp;🐬 MySQL
+
+### 🛠 Developer Tools  
+🧑‍💻 VS Code &nbsp;&nbsp;🧠 IntelliJ IDEA &nbsp;&nbsp;🌀 Eclipse  
+🐍 Anaconda &nbsp;&nbsp;📓 Jupyter Notebook &nbsp;&nbsp;📐 RStudio  
+🐘 PostgreSQL &nbsp;&nbsp;🐙 GitHub
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-dev21&show_icons=true&theme=radical&hide_title=true&hide_rank=true" />
+</p>
 
 ---
 
-_Always learning. Always building._
+<p align="center"><i>“Always learning. Always building.”</i></p>
