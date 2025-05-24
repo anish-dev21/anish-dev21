@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Anish Biswas</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=International+Information+Systems+Student+@THA+Augsburg;AI/ML+Enthusiast;Full-Stack+Developement;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=International+Information+Systems+@THA+Augsburg;AI/ML+Enthusiast;Full-Stack+Developement;" alt="Typing SVG" />
 </p>
 
 ---
