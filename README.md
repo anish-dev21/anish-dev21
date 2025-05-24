@@ -1,12 +1,13 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Hi,+I'm+Anish" alt="Typing animation" style="vertical-align: middle;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Hi,+I'm+Anish" alt="Typing animation" style="vertical-align: middle;" />
+</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=3F8CFF&center=true&vCenter=true&width=430&lines=Information+Systems+@+THA+Augsburg;AI/ML+%7C+Data+Science+%7C+Full-Stack+Developer" alt="Typing animation" />
 </p>
 
-</h1>
-<p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: white;">
+<p align="left" style="font-family: 'JetBrains Mono', monospace; font-size: 14px; color: #ddd;">
   🌱 Currently exploring React.js & Time Series Analytics<br>
   🤝 Open to collaborations in applied research and development<br>
   📫 <a href="https://www.linkedin.com/in/anish-biswas-b08077200/" style="color: #3F8CFF;">Connect on LinkedIn</a>
@@ -40,3 +41,4 @@ Applied interpretable ML algorithms to predict FIFA player ratings from performa
 ### 🔋 Electric Vehicle Recommendation Bot  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Rasa](https://img.shields.io/badge/-Rasa-5B4699?style=flat&logo=rasa&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat)  
 Built a conversational agent recommending electric vehicles tailored to user preferences and criteria.
+
