@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'JetBrains Mono', monospace;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="vertical-align: middle;" />
-  <span style="vertical-align: middle; font-size: 42px; color: white;">Hi, I'm Anish</span>
+  <span style="vertical-align: middle; font-size: 35px; color: white;">Hi, I'm Anish</span>
 </h1>
 
 <p align="center">
